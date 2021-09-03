@@ -1,1 +1,1 @@
-# translations
+# Discord Bot Maker - Tradutores - BRASIL
